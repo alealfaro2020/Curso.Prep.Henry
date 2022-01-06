@@ -128,5 +128,7 @@ console.log(triple); // [ 6, 9, 12, 15 ]
 
 * [Understanding Callback Functions and How to Use Them](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/)
 * [Eloquent Javascript: Higher Order Functions](https://eloquentjavascript.net/05_higher_order.html)
-* [MDN: Callback function](https://developer.mozilla.org/en-US/docs/Glossary/Callback_function)
+* [MDN: Callback function](
+    
+)
 * [MDN: Array methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
