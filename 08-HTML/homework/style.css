@@ -3,10 +3,19 @@
     color:darkred;
 }
 
+img{
+    width:400px;
+    width:400px;
+}
+
 #thirdDiv{
     height: 600px;
     width: 500px;
     background-color: goldenrod;
     padding: 50px;
     border: 1px lemonchiffon;
+}
+
+#spanId {
+    font-size: 18px;
 }
