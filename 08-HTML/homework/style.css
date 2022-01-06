@@ -1,0 +1,12 @@
+/* Codigo css */
+#myname {
+    color:darkred;
+}
+
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: goldenrod;
+    padding: 50px;
+    border: 1px lemonchiffon;
+}
