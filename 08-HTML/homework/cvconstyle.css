@@ -1,0 +1,109 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    background: ivory;
+
+}
+
+.name {
+    width: 100%;
+    height: 300px;
+    background: brown;
+    transform: skewY(-5deg);
+}
+
+.name .content {
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    left: 25%;
+}
+
+.name .content .p-1{
+    color: whitesmoke;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bolder;
+    font-size: 55px;
+    transform: skewY(5deg);
+    margin-bottom: 0;
+}
+
+.name .content .p-2{
+    color: whitesmoke;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bolder;
+    font-size: 25px;
+    transform: skewY(5deg);
+    margin-top: 0.3;
+    margin-bottom: 0.5;
+}
+
+.name .content .p-3{
+    color: whitesmoke;
+    font-weight: bolder;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    transform: skewY(5deg);
+    margin-top: 0.5;
+    margin-bottom: 0.5;
+}
+
+.name .img{
+    position: absolute;
+    top: 25%;
+    right: 10%;
+    width: 180px;
+    height: 180px;
+    border-radius: 100%;
+    transform: skewY(5deg);
+    overflow: hidden;
+}
+
+.name .img img {
+    width: 180px ;
+    height: 190px ;
+}
+
+.info{
+    width: 90%;
+    height: auto;
+    background: brown;
+    margin: 5% auto;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.info .tituloSeccion{
+    color: whitesmoke;
+    font-family: 'Open Sans', sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bolder;
+    border-bottom: 2px whitesmoke dashed;
+}
+
+.info .tituloinfo{
+    color:whitesmoke;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    display: inline;
+    margin-right: 15px;
+}
+
+.info .infoinfo{
+    color: whitesmoke;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: normal;
+    font-size: large;
+    display: inline;
+}
+
+.info .linkear{
+    color: whitesmoke;
+    font-family:'Open Sans', sans-serif;
+    font-weight: normal;
+    font-size: large;
+    display:inline;
+}
